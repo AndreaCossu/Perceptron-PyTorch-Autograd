@@ -1,4 +1,4 @@
-PyTorch implementation of Single Layer Perceptron to separate linearly separable data.
+# PyTorch implementation of Single Layer Perceptron to separate linearly separable data.
 
 A single pattern of data is a 2-dimensional point in the cartesian plane with (-1, 1) labels.
 
