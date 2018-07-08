@@ -67,7 +67,7 @@ for epoch in range(epochs):
             optimizer.zero_grad()
 
     losses.append(total_loss / numpt)
-    print(losses[-1])
+    #print(losses[-1])
 
 
 # plot points, hyperplane and learning curve
